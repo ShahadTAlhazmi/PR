@@ -1,0 +1,10 @@
+Flask
+opencv-python
+ultralytics
+requests
+joblib
+numpy
+pandas
+twilio
+xgboost
+gunicorn
